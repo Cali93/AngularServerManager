@@ -1,0 +1,2 @@
+# AngularServerManager
+Angular mini-project
