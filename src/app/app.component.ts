@@ -6,10 +6,10 @@ import { Component } from '@angular/core';
   // styleUrls: ['./app.component.css']
   styles: [`
   h1{
-    color:blueviolet;
+    color:firebrick;
   }`]
 })
 export class AppComponent {
-  title = 'Mean-Chat ';
+  title = 'your server manager ';
   name = ' ';
 }

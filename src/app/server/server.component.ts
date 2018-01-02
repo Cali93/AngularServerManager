@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
   styles: [`
   .online {
     color: white;
+    margin-top: 15px;
   }`]
 })
 export class ServerComponent {
